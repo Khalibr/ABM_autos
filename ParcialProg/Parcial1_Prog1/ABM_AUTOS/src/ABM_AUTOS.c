@@ -162,7 +162,7 @@ int main(void) {
 				break;
 
 		}
-		system("cls");
+		//system("cls");
 	}while(salir !='s');
 
 
